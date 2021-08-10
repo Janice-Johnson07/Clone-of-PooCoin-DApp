@@ -1,7 +1,7 @@
 # Clone-of-PooCoin-DApp
 FRONTEND_TEAM 7
 
-# Team Mebers:
+# Team Members:
   * Medhashakti Khatri
   * Janice Johnson C.
   * Nimisha George
